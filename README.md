@@ -9,6 +9,14 @@ A desktop app to control your **Gennet OxyGEN / Oxygen Broadband router** from y
 
 ---
 
+> ⚠️ **Disclaimer**
+>
+> This software is provided **as-is**, for personal use only. The author is **not responsible** for any damage, data loss, network disruption, loss of connectivity, or any other issues that may arise from using this application. **Use at your own risk.**
+>
+> This tool communicates directly with your router's admin interface. Incorrect usage may disrupt your network. Make sure you understand what the app does before using it. The author makes no guarantees that it will work on your specific router model or firmware version.
+
+---
+
 ## Features
 
 - **Toggle internet ON/OFF** for all devices on your network instantly
